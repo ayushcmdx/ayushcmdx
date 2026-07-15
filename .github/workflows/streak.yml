@@ -1,0 +1,23 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch Streak Stats
+        run: |
+          curl -o streak.svg "https://streak-stats.demolab.com?user=ayushcmd&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata"
+
+      - name: Commit streak.svg
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update streak stats"
+          file_pattern: streak.svg
