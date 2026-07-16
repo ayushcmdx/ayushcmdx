@@ -18,12 +18,7 @@
   </a>
 </p>
 
-<!-- Currently Building -->
-<p align="center">
-  <a href="https://github.com/ayushcmd/AtmosGrid">
-    <img src="https://img.shields.io/badge/Currently_Building-AtmosGrid_for_ISRO_BAH_2026-22D3EE?style=flat-square&labelColor=C4956A"/>
-  </a>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
@@ -51,7 +46,9 @@ ayushcmd
 
   Name        : Ayush Raj
   College     : IIT Patna
-  Grad Year   : 2027
+  Grad Year   : 2028
+  Interests   : Full-Stack Dev, AI/ML, Data Analytics
+
 - Connect On ----------------------------------------
   Email       : ayush_24a12res897@iitp.ac.in
   Portfolio   : https://ayushcmd.me
@@ -65,6 +62,7 @@ ayushcmd
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
+
 <!-- ================= SKILLS (one-liner) ================= -->
 ### Skills
 
@@ -109,7 +107,7 @@ ayushcmd
 
 <!-- ================= PROJECTS ================= -->
 <details>
-<summary><h3> Projects</h3></summary>
+<summary><h3> Projects &nbsp;<img src="https://www.readmecodegen.com/api/social-icon?name=arrowleft&size=28&color=%2310b981" alt="arrowleft" valign="middle"/></h3></summary>
 
 <br/>
 
@@ -163,7 +161,7 @@ ayushcmd
 
 <!-- ================= STATS ================= -->
 <details>
-<summary><h3> Stats </h3></summary>
+<summary><h3> Stats &nbsp;<img src="https://www.readmecodegen.com/api/social-icon?name=arrowleft&size=28&color=%2310b981" alt="arrowleft" valign="middle"/></h3></summary>
 
 <br/>
 
@@ -193,12 +191,11 @@ ayushcmd
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
 <!-- ================= PORTFOLIO CTA ================= -->
-
 <p align="center">
   <i>People kept asking for the code. Here it is — start with the free overview, buy the guide to understand how it's built, or grab the full source to build on top of it.</i>
 </p>
 
-<p align="center"><b>Get This Portfolio</b></p>
+<p align="center"><b>Get My Portfolio Site</b></p>
 
 <p align="center">
   <a href="https://github.com/ayushcmd/portfolio-website-description"><img src="https://img.shields.io/badge/Overview-Free-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>

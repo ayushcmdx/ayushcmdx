@@ -1,0 +1,8 @@
+<svg width="30" height="30" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; -6,0; 0,0" dur="0.9s" repeatCount="indefinite"/>
+    <circle cx="42" cy="30" r="12" fill="#C4956A"/>
+    <rect x="8" y="24" width="24" height="10" rx="5" fill="#22D3EE"/>
+    <circle cx="10" cy="29" r="5" fill="#22D3EE"/>
+  </g>
+</svg>
