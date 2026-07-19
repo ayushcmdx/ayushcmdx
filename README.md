@@ -37,7 +37,7 @@
     </td>
     <td width="70%" valign="top">
 
-```
+<pre>
 ayushcmd
 
   Name        : Ayush Raj
@@ -46,11 +46,11 @@ ayushcmd
   Interests   : Full-Stack Dev, AI/ML, Data Analytics
 
 - Connect On ----------------------------------------
-  Email       : ayush_24a12res897@iitp.ac.in
-  Portfolio   : https://ayushcmd.me
-  GitHub      : https://github.com/ayushcmd
-  LinkedIn    : https://www.linkedin.com/in/ayush08iitp
-```
+  Email       : <a href="mailto:ayush_24a12res897@iitp.ac.in">ayush_24a12res897@iitp.ac.in</a>
+  Portfolio   : <a href="https://ayushcmd.me">https://ayushcmd.me</a>
+  GitHub      : <a href="https://github.com/ayushcmd">https://github.com/ayushcmd</a>
+  LinkedIn    : <a href="https://www.linkedin.com/in/ayush08iitp">https://www.linkedin.com/in/ayush08iitp</a>
+</pre>
 
     
   </tr>
@@ -155,21 +155,14 @@ ayushcmd
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
-<!-- ================= STATS ================= -->
-<details>
-<summary><h3> Stats &nbsp;<img src="https://www.readmecodegen.com/api/social-icon?name=arrowleft&size=28&color=%2310b981" alt="arrowleft" valign="middle"/></h3></summary>
+<!-- ================= STATS (no toggle, normal view) ================= -->
+### Stats
 
 <br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushcmd&theme=gruvbox&hide_border=true&border_radius=12&ring=61AFEF&fire=61AFEF&currStreakLabel=61AFEF&sideLabels=C4956A&background=1C1917&timezone=Asia%2FKolkata" width="80%" alt="GitHub Streak Stats"/>
-</p>
-
-</details>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
