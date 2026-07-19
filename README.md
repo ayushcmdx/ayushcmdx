@@ -1,7 +1,5 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,50:C4956A,100:D4A843&height=90&section=header&text=Hey%20There!%20I'm%20Ayush&fontSize=26&fontColor=ffffff&fontAlignY=60&animation=fadeIn" alt="Header"/>
-</p>
+<!-- Small Clean Header -->
+<h1 align="center">Hey There! I'm Ayush </h1>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -17,8 +15,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Live-E8A87C?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
@@ -165,27 +161,15 @@ ayushcmd
 
 <br/>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=ayushcmd&theme=gruvbox&hide_border=true&border_radius=12&ring=F2C94C&fire=F2994A&currStreakLabel=F2C94C&timezone=Asia%2FKolkata" width="100%" alt="GitHub Streak"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayushcmd&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&include_all_commits=true" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
-
-### Pac-Man Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions"/>
+  <img src="https://streak-stats.demolab.com?user=ayushcmd&theme=gruvbox&hide_border=true&border_radius=12&ring=61AFEF&fire=61AFEF&currStreakLabel=61AFEF&sideLabels=C4956A&background=1C1917&timezone=Asia%2FKolkata" width="80%" alt="GitHub Streak Stats"/>
 </p>
+
+</details>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
@@ -207,35 +191,14 @@ ayushcmd
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
-### Contact
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+### Pac-Man Contribution Graph
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush08iitp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ayush_24a12res897@iitp.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://ayushcmd.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E8A87C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ayush08iitp/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.kaggle.com/ayush08iitp" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/ayush08iitp" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contributions"/>
 </p>
 
 <br/>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A843,50:C4956A,100:1C1917&height=90&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="Footer"/>
-</p>
 
 <p align="center">
   <i>"Experiences over things. Knowledge over noise. Contribution over consumption."</i>
