@@ -162,7 +162,7 @@ ayushcmd
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
+  <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
 </p>
 
 <p align="center">
