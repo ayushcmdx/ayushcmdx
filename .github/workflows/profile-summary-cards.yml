@@ -1,17 +1,22 @@
-name: Generate Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch:        # lets you run it manually anytime
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
-      - name: Generate GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          username: ayushcmd
-          theme: github_dark
+          USERNAME: ayushcmd
+          BRANCH_NAME: "main"
+          THEME: github_dark
