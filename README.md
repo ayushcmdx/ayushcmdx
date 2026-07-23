@@ -11,23 +11,8 @@
 
 <br/>
 
-<!-- Small Clean Header -->
-<h1 align="center">Hey There! I'm Ayush </h1>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8A87C&center=true&vCenter=true&width=750&lines=Building+Projects+That+Matter+;Turning+Data+Into+Decisions+;XGBoost+%7C+LSTM+%7C+Transformer+Pipelines+;Curious+About+the+World+;Open+to+Internship+Opportunities+" alt="Typing SVG"/>
-</p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/ayushcmd">
-    <img src="https://komarev.com/ghpvc/?username=ayushcmd&label=Profile%20Views&color=E8A87C&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://ayushcmd.me">
-    <img src="https://img.shields.io/badge/Portfolio-Live-E8A87C?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
@@ -62,7 +47,7 @@ ayushcmd
   Email       : <a href="mailto:ayush_24a12res897@iitp.ac.in">ayush_24a12res897@iitp.ac.in</a>
   Portfolio   : <a href="https://ayushcmd.me">https://ayushcmd.me</a>
   GitHub      : <a href="https://github.com/ayushcmd">https://github.com/ayushcmd</a>
-  LinkedIn    : <a href="https://www.linkedin.com/in/ayush08iitp">https://www.linkedin.com/in/ayush08iitp</a>
+  LinkedIn    : <a href="https://www.linkedin.com/in/ayushcmd">https://www.linkedin.com/in/ayushcmd</a>
 </pre>
 
     
