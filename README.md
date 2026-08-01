@@ -1,18 +1,13 @@
-<!-- ================= CONTRIBUTION STREAK ================= -->
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<!-- ================= ACCOUNT NOTICE ================= -->
 <div align="center">
 
-<h3><code>ayushcmd@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Ayush's GitHub contribution graph — auto-refreshed daily" />
+> ⚠️ **Heads up:** My old account **`ayushcmd`** was suspended by GitHub's abuse detection system without any clarification, and I lost access to some of my repos in the process.
+>
+> This is my new account: **[`ayushcmdx`](https://github.com/ayushcmdx)** — please follow/connect here going forward.
 
 </div>
 
 <br/>
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
@@ -46,7 +41,7 @@ ayushcmd
 - Connect On ----------------------------------------
   Email       : <a href="mailto:ayush_24a12res897@iitp.ac.in">ayush_24a12res897@iitp.ac.in</a>
   Portfolio   : <a href="https://ayushcmd.me">https://ayushcmd.me</a>
-  GitHub      : <a href="https://github.com/ayushcmd">https://github.com/ayushcmd</a>
+  GitHub      : <a href="https://github.com/ayushcmdx">https://github.com/ayushcmdx</a>
   LinkedIn    : <a href="https://www.linkedin.com/in/ayushcmd">https://www.linkedin.com/in/ayushcmd</a>
 </pre>
 
@@ -159,7 +154,7 @@ ayushcmd
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushcmd/ayushcmd/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
+  <img src="https://raw.githubusercontent.com/ayushcmdx/ayushcmdx/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
 </p>
 
 <br/>
@@ -173,7 +168,7 @@ ayushcmd
 <p align="center"><b>Get My Portfolio Site</b></p>
 
 <p align="center">
-  <a href="https://github.com/ayushcmd/portfolio-website-description"><img src="https://img.shields.io/badge/Overview-Free-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
+  <a href="https://github.com/ayushcmdx/portfolio-website-description"><img src="https://img.shields.io/badge/Overview-Free-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
   <a href="https://www.ayushcmd.me/buy/checkout?product=source"><img src="https://img.shields.io/badge/Full_Source-%E2%82%B9800-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
   <a href="https://www.ayushcmd.me/buy/checkout?product=bundle"><img src="https://img.shields.io/badge/Complete_Bundle-%E2%82%B91270-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
   <a href="https://www.ayushcmd.me/buy/checkout?product=newbundle"><img src="https://img.shields.io/badge/Updated_Bundle-%E2%82%B92850_%E2%80%A2_Latest-D4A843?style=for-the-badge&labelColor=1C1917"/></a>
