@@ -160,19 +160,6 @@ ayushcmd
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
 
-<!-- ================= PORTFOLIO CTA ================= -->
-<p align="center">
-  <i>People kept asking for the code. Here it is — start with the free overview, buy the guide to understand how it's built, or grab the full source to build on top of it.</i>
-</p>
-
-<p align="center"><b>Get My Portfolio Site</b></p>
-
-<p align="center">
-  <a href="https://github.com/ayushcmdx/portfolio-website-description"><img src="https://img.shields.io/badge/Overview-Free-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
-  <a href="https://www.ayushcmd.me/buy/checkout?product=source"><img src="https://img.shields.io/badge/Full_Source-%E2%82%B9800-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
-  <a href="https://www.ayushcmd.me/buy/checkout?product=bundle"><img src="https://img.shields.io/badge/Complete_Bundle-%E2%82%B91270-22D3EE?style=for-the-badge&labelColor=C4956A"/></a>
-  <a href="https://www.ayushcmd.me/buy/checkout?product=newbundle"><img src="https://img.shields.io/badge/Updated_Bundle-%E2%82%B92850_%E2%80%A2_Latest-D4A843?style=for-the-badge&labelColor=1C1917"/></a>
-</p>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
