@@ -157,8 +157,7 @@ ayushcmd
   <img src="https://raw.githubusercontent.com/ayushcmdx/ayushcmdx/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="80%" alt="Profile Summary"/>
 </p>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C4956A&height=2&section=header" width="100%"/>
+
 
 
 <br/>
