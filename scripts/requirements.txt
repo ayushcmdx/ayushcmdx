@@ -1,0 +1,6 @@
+# Daily GitHub Actions workflow dependencies (lightweight)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Optional / Local development dependencies (only needed when regenerating the ASCII portrait from source photo)
+Pillow>=10.0.0

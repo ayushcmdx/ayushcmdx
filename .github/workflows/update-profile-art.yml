@@ -1,39 +1,56 @@
-name: Update contribution streak graph
+name: Update Contribution Graph & Stats
 
-# Refreshes contrib-heatmap.svg daily from real GitHub contribution data.
-# Runs daily, plus whenever you push to main, plus on-demand from the Actions tab.
+# Refreshes contribution heatmap and statistics dashboard daily from real GitHub data.
+# Runs daily on schedule, on push to main, and on demand via workflow_dispatch.
 
-"on":
+on:
   schedule:
-    - cron: "17 6 * * *"   # ~06:17 UTC every day
-  workflow_dispatch: {}
+    - cron: "17 6 * * *"  # 06:17 UTC daily
+  workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile-art.yml"
 
 permissions:
   contents: write
 
 jobs:
-  heatmap:
+  refresh-profile-art:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
-        run: pip install requests==2.32.3 beautifulsoup4==4.12.3
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests==2.32.3 beautifulsoup4==4.12.3
 
-      - name: Scrape real contribution data (no auth needed)
-        run: python scripts/fetch_contributions.py
+      - name: Fetch real contribution data
+        env:
+          GH_PROFILE_USER: ayushcmdx
+        run: |
+          python scripts/fetch_contributions.py
 
-      - name: Render animated contribution graph SVG
-        run: python scripts/render_heatmap_svg.py
+      - name: Render contribution heatmap SVG
+        run: |
+          python scripts/render_heatmap_svg.py
+
+      - name: Render statistics dashboard SVG
+        run: |
+          python scripts/make_info_card.py
 
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh contribution graph and stats [skip ci]"
+          file_pattern: "data/contributions.json assets/contrib-heatmap.svg contrib-heatmap.svg assets/info-card.svg"
