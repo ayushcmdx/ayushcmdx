@@ -1,3 +1,5 @@
+>  📢 **Heads up:** My previous GitHub account (@ayushcmd) was suspended by GitHub’s abuse detection system, and some repositories were lost. Connect with me on my new account, [@ayushcmdx](https://github.com/ayushcmdx).
+
 <div align="center">
 
 <h3><code>ayushcmdx@github ~ $ ./contributions.sh</code></h3>
