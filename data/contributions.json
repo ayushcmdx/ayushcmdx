@@ -1,22 +1,22 @@
 {
   "username": "ayushcmdx",
-  "generated_at": "2026-10-24T10:55:37Z",
+  "generated_at": "2026-10-25T11:22:37Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 290,
-  "active_days": 87,
-  "avg_per_active_day": 3.3,
+  "total_contributions": 307,
+  "active_days": 88,
+  "avg_per_active_day": 3.5,
   "current_streak": {
-    "length": 87,
+    "length": 88,
     "start": "2026-07-30",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "longest_streak": {
-    "length": 87,
+    "length": 88,
     "start": "2026-07-30",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "best_day": {
     "date": "2026-10-18",
@@ -99,49 +99,21 @@
       "key": "2026-10",
       "label": "Oct",
       "year": "2026",
-      "total": 163
+      "total": 180
     }
   ],
   "github_stats": {
-    "public_repos": 11,
+    "public_repos": 3,
     "total_stars": 7,
     "total_prs": 12,
     "total_issues": 5,
     "scope": "public activity",
     "merged_prs": 12,
-    "commits_365d": 184,
+    "commits_365d": 176,
     "code_reviews": 0,
     "counting_method": "GitHub Search API (trailing 365 days for commits; public repos and PRs)"
   },
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0
@@ -1596,7 +1568,11 @@
     },
     {
       "date": "2026-10-24",
-      "count": 17
+      "count": 22
+    },
+    {
+      "date": "2026-10-25",
+      "count": 12
     }
   ]
 }
