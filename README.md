@@ -1,15 +1,9 @@
 <div align="center">
 
 <a href="https://github.com/ayushcmd">
-  <img src="./assets/secondary-account-banner.svg" alt="Secondary GitHub Account — Ayush Raj" width="100%" />
+  <img src="./assets/dino-game.svg" alt="Ayush Raj — CS & Data Analytics student at IIT Patna. Secondary GitHub account, main profile @ayushcmd" width="100%" />
 </a>
 
-<br/><br/>
-
-<p>Hey there! This is my secondary GitHub account, not my main profile.</p>
-
-<p>For my main projects, contributions, and development activity, find me here:</p>
-
-<h2><a href="https://github.com/ayushcmd"><strong>@ayushcmd</strong> ↗</a></h2>
+<p>Secondary account &nbsp;·&nbsp; main profile: <a href="https://github.com/ayushcmd"><b>@ayushcmd</b></a> &nbsp;·&nbsp; <a href="https://ayushcmd.me">ayushcmd.me</a></p>
 
 </div>
